@@ -27,7 +27,7 @@ body{
     font-size: 20px;
 }
 #album_of_when_was_children {
-    list-style-image: url(../_imagens/music.png);
+    list-style-image: url(../imagens/music.png);
     list-style-position: inside;
 }
 #album_of_when_was_children a {
@@ -38,7 +38,7 @@ body{
     color:rgb(231, 207, 79);
 }
 #album_solo{
-    list-style-image: url(../_imagens/music.png);
+    list-style-image: url(../imagens/music.png);
     list-style-position: inside;
 }
 #album_solo a {
@@ -74,4 +74,11 @@ body{
     margin-left: 20px;
     border-left: 2px solid black;
     padding-left: 10px;
+}
+#off_the_wall{
+    color: black;
+    text-decoration: none;
+}
+#off_the_wall:hover{
+    color:rgb(231, 207, 79);
 }
